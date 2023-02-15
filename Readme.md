@@ -1,8 +1,8 @@
-# About
+# 💬 About
 
 These exercises are a practice of C language inside the discipline of data structure 1, belonging to the course of Computer Engineering.
 
-## Content
+## 👨🏽‍💻 C Content
 
 - Sorting Algorithms
   - bubble sort
@@ -20,7 +20,13 @@ These exercises are a practice of C language inside the discipline of data struc
 
 ---
 
-## Sorting Algorithms
+## 🎯 Project objectives
+
+- Practice of C language sorting algorithms
+
+---
+
+## C Sorting Algorithms
 
 ---
 
